@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarush Kandivanam
-- 👀 I’m currently interested in Fullstack development 
-- 📚 I’m currently learning Javascript, Node, Git
+- 👀 I’m interested in Fullstack development 
+- 📚 I’m learning Javascript, Node, Git
 - ⚡ Fun fact: I'm in the 8th grade 👍
 - 👏 Would appreciate feedback on my projects 
 
