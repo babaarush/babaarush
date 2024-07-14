@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Aarush Kandivanam
-- 👀 I’m interested in Fullstack development 
-- 📚 I’m learning Javascript, Node, Git
-- ⚡ Fun fact: I'm in the 8th grade 👍
-- 👏 Would appreciate feedback on my projects 
+ Hey there! I'm Aarush Kandivanam
+👀 Interests: I’m interested in Fullstack development
+📚 Currently Learning: JavaScript, Node.js, and Git
+⚡ Fun Fact: I'm in the 8th grade 👍
+💬 Feedback: Would appreicate feedback on my projects
 
 <!---
 babaarush/babaarush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
