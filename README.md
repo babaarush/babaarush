@@ -1,5 +1,5 @@
  ## Hey! I'm Aarush Kandivanam
-* 👀 Interests: I’m interested in robotics
+* 👀 Interests: I’m interested in Arduino
   
 * 🤝 Feedback: I would appreciate feedback on my projects
 <!---
